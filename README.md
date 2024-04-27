@@ -1,10 +1,6 @@
 ### Olá, meu nome é Haviner! Seja bem-vindo(a)! 👋
 
-- 📚 Cursando Analise e Desenvolvimento de Sistemas.
-
-Comecei no mundo da programação há aproximadamente 4 anos, mas levar a sério, tem 5 meses, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais. 
-
-Sempre fui apaixonado por tecnologia, soluções, inovações e aprendizado contínuo.
+Sou desenvolvedor back-end com experiência em criar e otimizar aplicações para eficiência e escalabilidade. Formado em Análise e Desenvolvimento de Sistemas pela UNOPAR e com uma sólida formação anterior em Ciências Contábeis pela FANORTE, possuo uma forte base para entender as necessidades de negócios e técnicas. Atualmente, emprego minhas habilidades na Labor Engenharia e Tecnologia LTDA, desenvolvendo funcionalidades críticas para sistemas de gerenciamento e estoque. Recentemente, expandi meu escopo para incluir automações especializadas para triagem de imagens, aumentando a eficiência dos processos internos.
 
 <div>
   <a href="https://github.com/havinercavalcante">
