@@ -34,37 +34,30 @@
 ## 🛠️ Stack & Tecnologias
 
 ### Linguagens
-<div style="display: flex; gap: 10px;">
-  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
-  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
-  <img alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
-  <img alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
-  <img alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br/>
+<img align="left" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="left" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br/><br/><br/>
 
 ### Frameworks & Bibliotecas
-<div style="display: flex; gap: 10px;">
-  <img alt="Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">&nbsp;&nbsp;
-  <img alt="Vue.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">&nbsp;&nbsp;
-  <img alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
-  <img alt="Angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;
-  <img alt="NestJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">&nbsp;&nbsp;
-  <img alt="Nuxt" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
-</div>
-
-<br/>
+<img align="left" alt="Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img align="left" alt="Vue.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img align="left" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="left" alt="Angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="left" alt="NestJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+<img align="left" alt="Nuxt" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+<br/><br/><br/>
 
 ### Banco de Dados & DevOps
-<div style="display: flex; gap: 10px;">
-  <img alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;
-  <img alt="SQL Server" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;
-  <img alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;&nbsp;
-  <img alt="Redis" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">&nbsp;&nbsp;
-  <img alt="Azure" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;&nbsp;
-  <img alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<img align="left" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="left" alt="SQL Server" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img align="left" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="left" alt="Redis" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+<img align="left" alt="Azure" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="left" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<br/><br/><br/>
 
 ---
 
