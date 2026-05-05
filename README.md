@@ -99,13 +99,23 @@
 
 <div align="center">
 
-| Projeto | Projeto | Projeto |
-|---|---|---|
-| 🌑 Dark Theme | 🎮 Pokédex | ✅ To Do List |
-| 📚 API de Biblioteca | 🏥 API de Clínica | 🔐 Tela de Login |
-| 📋 Lista de Tarefas | 🛒 E-commerce | 🛍️ E-commerce Simples |
-| 📅 Agenda | 📝 Blog | ☀️ Sistema de Energia Solar |
-| 💪 Lista de Exercícios | 🔤 Secret Word | 📖 Mini Blog |
+| 🗂️ Projeto |
+|---|
+| 🌑 Dark Theme |
+| 🎮 Pokédex |
+| ✅ To Do List |
+| 📚 API de Biblioteca |
+| 🏥 API de Clínica |
+| 🔐 Tela de Login |
+| 📋 Lista de Tarefas |
+| 🛒 E-commerce |
+| 🛍️ E-commerce Simples |
+| 📅 Agenda |
+| 📝 Blog |
+| ☀️ Sistema de Energia Solar |
+| 💪 Lista de Exercícios |
+| 🔤 Secret Word |
+| 📖 Mini Blog |
 
 </div>
 
